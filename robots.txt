@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahduwugap.excellence-through-accidents.com/sitemap.xml
